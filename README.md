@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+# I am a full time student at the University of Glasgow
+I'm currently learning react and looking to get more experience in front end.
+You can reach me on LinkedIn.
+Pronouns: He/Him
+
 <!--
 **lewistough04/lewistough04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
