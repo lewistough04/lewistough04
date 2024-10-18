@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I am a full time student at the University of Glasgow
-I'm currently learning react and looking to get more experience in front end.
-You can reach me on LinkedIn.
+### I am a full time student at the University of Glasgow
+I'm currently learning react and looking to get more experience in front end. <br>
+You can reach me on LinkedIn. <br>
 Pronouns: He/Him
 
 <!--
