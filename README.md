@@ -5,6 +5,8 @@ I'm currently learning react and looking to get more experience in front end. <b
 You can reach me on LinkedIn. <br>
 Pronouns: He/Him
 
+https://github-readme-streak-stats.herokuapp.com/?user=lewistough04&theme=dark
+
 <!--
 **lewistough04/lewistough04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
